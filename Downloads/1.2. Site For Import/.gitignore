@@ -1,0 +1,5 @@
+/tmp
+img/*.*_backup
+*.*_old
+Thumbs.db
+.DS_Dtore
